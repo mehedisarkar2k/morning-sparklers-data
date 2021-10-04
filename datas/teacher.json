@@ -1,26 +1,26 @@
 [
    {
       "id":2001,
-      "namme":"Buster Hyman",
+      "name":"Buster Hyman",
       "designation":"Sports Instructor",
-      "img":"t-1"
+      "img":"https://raw.githubusercontent.com/mehedisarkar2k/morning-sparklers-data/main/teachers/teacher1.webp"
    },
    {
       "id":2002,
-      "namme":"Jack Clay",
+      "name":"Jack Clay",
       "designation":"Mathematics Instructor",
-      "img":"t-2"
+      "img":"https://raw.githubusercontent.com/mehedisarkar2k/morning-sparklers-data/main/teachers/teacher2.webp"
    },
    {
       "id":2003,
-      "namme":"Amilia Kaully",
+      "name":"Amilia Kaully",
       "designation":"Science Instructor",
-      "img":"t-3"
+      "img":"https://raw.githubusercontent.com/mehedisarkar2k/morning-sparklers-data/main/teachers/teacher3.webp"
    },
    {
       "id":2004,
-      "namme":"Mr. Jackson Clay",
+      "name":"Mr. Jackson Clay",
       "designation":"Sports Instructor",
-      "img":"t-4"
+      "img":"https://raw.githubusercontent.com/mehedisarkar2k/morning-sparklers-data/main/teachers/teacher4.webp"
    }
 ]
